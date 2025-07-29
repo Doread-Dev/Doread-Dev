@@ -54,7 +54,7 @@ An automated system for fair distribution of donations, built with Node.js & Mon
 
 - Email: **haydara.bisomy@gmail.com**  
 - LinkedIn: [linkedin.com/in/haydara-al-bisomy](https://www.linkedin.com/in/haydara-al-bisomy)  
-- GitHub: [github.com/Doread-Dev](https://github.com/Doread-10)  
+- GitHub: [github.com/Doread-Dev](https://github.com/Doread-Dev)  
 
 ---
 
