@@ -31,7 +31,7 @@ Git • GitHub • Postman • VS Code
 
 🔹 **AI CV Generator with ATS Optimization**  
 A resume builder that uses OpenAI to generate ATS-compliant CVs with live preview.  
-> _Coming Soon_
+> [_Check Now_](https://github.com/Doread-Dev/cv-generator.git)
 
 🔹 **Real-Time Chat App**  
 A Gen-Z-inspired chat platform with custom emoji contacts, delivery status, and sleek UI.  
@@ -39,7 +39,7 @@ A Gen-Z-inspired chat platform with custom emoji contacts, delivery status, and 
 
 🔹 **FairShare – Smart Donation System (Hackathon Winner)**  
 An automated system for fair distribution of donations, built with Node.js & MongoDB.  
-> _Coming Soon_
+> [_Check Now_](https://github.com/Doread-Dev/fairshare-donation-system.git)
 
 ---
 
